@@ -4695,6 +4695,7 @@ function dedupe (latest, extended, sealed) {
   }
 }
 
+//Vue源代码
 function Vue(options) {
     if ("development" !== 'production' &&
         !(this instanceof Vue)
